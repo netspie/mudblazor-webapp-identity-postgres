@@ -6,4 +6,5 @@ This is a template Blazor Web App project you can use to get your identity setup
 Blazor, .NET 9.0.4, EF Core 9, Identity, MudBlazor 8
 
 ### Links
-More Info in [Blazor Web App with Identity and PostgreSQL](https://github.com/netspie/blazor-webapp-identity-postgres) (without MudBlazor)
+[Blazor Web App with Identity and PostgreSQL](https://github.com/netspie/blazor-webapp-identity-postgres) (without MudBlazor)  
+[Blazor Web App with Identity, PostgreSQL, MudBlazor and Tailwind v4](https://github.com/netspie/mudblazor-webapp-identity-postgres-tailwind4)
